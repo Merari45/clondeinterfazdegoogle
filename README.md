@@ -22,5 +22,5 @@ En este proyecto me enfoque en contruir la clonación de la Intefaz de Google, c
 
 * **Footer**: Sección que incluye hípervinculos al final de la página.
 
-## Objetivo del proyecto
+## 3. Objetivo del proyecto
 Aprender a utilizar las etiquetas estándar de HTML5 y los estilos de CSS3.
